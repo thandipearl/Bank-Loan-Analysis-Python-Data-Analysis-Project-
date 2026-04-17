@@ -4,9 +4,9 @@
 
 This project is an end-to-end **data analysis case study** in the finance domain, focused on **bank loan data**. The goal was to explore lending patterns, evaluate risk and uncover insights that can help a bank make better financial decisions.
 
-Using Python, I analyzed a real-world-style dataset to understand:
--How loans are distributed
--How customers repay loans
+Using Python, I analyzed a real-world-style dataset to understand:\
+-How loans are distributed\
+-How customers repay loans\
 -What factors influence risk and profitability
 
 ---
