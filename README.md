@@ -28,7 +28,7 @@ Understand customer behavior based on:\
 
 * **Python**
 * **Jupyter Notebook**
-  Libraries:\
+  Libraries:
 
    `pandas`\
   `numpy`\
@@ -69,7 +69,7 @@ With over **38,000 applications**, the data reflects a high demand for loans, in
 
 ### 3. Healthy Cash Flow
 
-For the most recent month:\
+For the most recent month:
 
 -Repayments exceeded new loans issued\
 -This suggests a **positive cash flow cycle**.
@@ -78,7 +78,7 @@ For the most recent month:\
 
 ### 4. Balanced Interest Rates
 
-The average interest rate is around **12%**, which is:\
+The average interest rate is around **12%**, which is:
 
 -Competitive for customers\
 -Still profitable for the bank
@@ -132,7 +132,7 @@ Customers with longer employment history are more likely to:\
 ## Analysis Performed
 
 -Data cleaning and preprocessing\
--Exploratory Data Analysis (EDA)\
+-Exploratory Data Analysis (EDA)
 
 KPI calculations:\
 -Total Loan Applications\
@@ -140,7 +140,7 @@ KPI calculations:\
 -Total Amount Received\
 -Average Interest Rate\
 -Average DTI\
--Month-to-Date (MTD) analysis\
+-Month-to-Date (MTD) analysis
 
 Grouped analysis by:\
 -State\
